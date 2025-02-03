@@ -32,4 +32,4 @@ Temos os dados de 2019 de uma empresa de prestação de serviços:
 
    **Dica:** Se você aplicar o método `.unique()` em uma variável que é apenas 1 coluna de um dataframe, ele vai excluir todos os valores duplicados daquela coluna.
    ```python
-   unicos_colunaA = dataframe['colunaA'].
+ 
